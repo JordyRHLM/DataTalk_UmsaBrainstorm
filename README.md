@@ -191,7 +191,7 @@ curl -X POST http://localhost:8000/query/approve \
 
 ### Bot de Teams — Listado de archivos disponibles
 
-![DataTalk Teams - Archivos disponibles](screenshots/teams_archivos.jpeg)
+![DataTalk Teams - Archivos disponibles](screenshots/Imagen2.jpeg)
 
 > El comando `/archivos` lista todos los archivos cargados en el sistema. El usuario puede activar cualquiera con `/usar <nombre>`.
 
@@ -199,15 +199,30 @@ curl -X POST http://localhost:8000/query/approve \
 
 ### Bot de Teams — Revisión del SQL antes de ejecutar
 
-![DataTalk Teams - Aprobación SQL](screenshots/teams_sql_aprobacion.png)
+![DataTalk Teams - Aprobación SQL](screenshots/Imagen3.jpeg)
 
 > Antes de ejecutar cualquier consulta, el bot muestra el SQL generado y pide confirmación explícita al usuario: **Aprobar y ejecutar** o **Rechazar**. Esto es el Human-in-the-Loop en acción.
 
 ---
+## Web App
+
+### Login con Microsoft Entra ID
+
+![DataTalk Login](screenshots/Imagen5.jpeg)
+
+> Pantalla de autenticación con Microsoft Entra ID. Permite acceso seguro mediante SSO corporativo y opción de usuario demo para pruebas del sistema.
+
+---
+
+### Dashboard — Análisis en lenguaje natural
+
+![DataTalk Dashboard](screenshots/Imagen6.jpeg)
+
+> Interfaz principal de DataTalk. El usuario formula preguntas en lenguaje natural, el sistema genera SQL validado, permite aprobación human-in-the-loop y muestra resultados con gráficos e insights automáticos.
 
 ### Bot de Teams — Resultado con insight empresarial
 
-![DataTalk Teams - Resultado](screenshots/teams_resultado.png)
+![DataTalk Teams - Resultado](screenshots/Imagen4.jpeg)
 
 > Tras la aprobación, el sistema ejecuta la consulta y devuelve: una explicación en lenguaje empresarial, la tabla de resultados, y el tipo de análisis clasificado.
 

@@ -208,7 +208,7 @@ curl -X POST http://localhost:8000/query/approve \
 
 ### Login con Microsoft Entra ID
 
-![DataTalk Login](screenshots/Imagen5.jpeg)
+![DataTalk Login](screenshots/Imagen6.jpeg)
 
 > Pantalla de autenticación con Microsoft Entra ID. Permite acceso seguro mediante SSO corporativo y opción de usuario demo para pruebas del sistema.
 
@@ -216,7 +216,7 @@ curl -X POST http://localhost:8000/query/approve \
 
 ### Dashboard — Análisis en lenguaje natural
 
-![DataTalk Dashboard](screenshots/Imagen6.jpeg)
+![DataTalk Dashboard](screenshots/Imagen5.jpeg)
 
 > Interfaz principal de DataTalk. El usuario formula preguntas en lenguaje natural, el sistema genera SQL validado, permite aprobación human-in-the-loop y muestra resultados con gráficos e insights automáticos.
 

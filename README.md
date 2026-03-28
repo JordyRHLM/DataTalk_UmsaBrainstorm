@@ -183,7 +183,7 @@ curl -X POST http://localhost:8000/query/approve \
 
 ### Bot de Teams — Menú principal y comandos disponibles
 
-![DataTalk Teams - Menú principal](screenshots/image.png)
+![DataTalk Teams - Menú principal](screenshots/WhatsApp Image 2026-03-28 at 1.38.54 AM.jpeg)
 
 > El bot de Teams muestra los comandos disponibles y los 5 tipos de análisis soportados: Ranking, Tendencia, Comparativa, Anomalía y Agregación.
 

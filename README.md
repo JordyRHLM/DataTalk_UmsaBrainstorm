@@ -183,7 +183,7 @@ curl -X POST http://localhost:8000/query/approve \
 
 ### Bot de Teams — Menú principal y comandos disponibles
 
-![DataTalk Teams - Menú principal](screenshots/teams_menu.jpeg)
+![DataTalk Teams - Menú principal](screenshots/image.png)
 
 > El bot de Teams muestra los comandos disponibles y los 5 tipos de análisis soportados: Ranking, Tendencia, Comparativa, Anomalía y Agregación.
 
@@ -228,7 +228,7 @@ curl -X POST http://localhost:8000/query/approve \
 
 | Criterio | Implementación |
 |---|---|
-| **Performance 25%** | DuckDB en memoria, FastAPI async, respuestas en < 2s |
+| **Performance 25%** | DuckDB en memoria, FastAPI async, respuestas en < 5s |
 | **Innovation 25%** | Text-to-SQL contextual + lake en memoria + anomaly detection |
 | **Azure Services 25%** | OpenAI GPT-4o, Entra ID, Monitor, App Service, Blob Storage |
 | **Responsible AI 25%** | Audit log, RBAC, human-in-the-loop, nivel de confianza visible |

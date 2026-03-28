@@ -262,7 +262,20 @@ curl -X POST http://localhost:8000/query/approve \
 - API pública para integradores
 
 ---
+## Demo / Presentación
 
+Presentación oficial del proyecto DataTalk para el Microsoft Innovation Challenge 2025:
+
+👉 https://docs.google.com/presentation/d/1Pmx468u3uqvqrWYg5bzVSS6AQL7i0KzexMr6vo07r88/edit
+
+Incluye:
+- Problema y solución
+- Arquitectura del sistema
+- Demo del flujo completo
+- Agentes AI implementados
+- Uso de Azure OpenAI
+- Responsible AI
+- Roadmap post-hackathon
 ## Equipo UmsaBrAInstorm
 
 **Leandro · Vivian · Edgar · Jordy · Henry**
